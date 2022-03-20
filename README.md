@@ -69,3 +69,6 @@ Dalam belajar pemrograman, hal yang tidak boleh dilakukan adalah Copy-Paste dala
 Dampak yang timbul dari Copy-Paste pada saat belajar, kemampuan Anda hanya akan terpaku seperti tutorial dan Anda tidak dapat mengembangkan kreativitas Anda pada membuat program. Pengetahuan Anda pun akan terbatas karena Anda hanya mengikuti tutorial yang ada.
 
 for more information call : 
+
+https://m.facebook.com/fathul.fiqrirzh?ref=bookmarks
+
