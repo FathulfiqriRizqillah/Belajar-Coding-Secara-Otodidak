@@ -68,7 +68,7 @@ Jangan Copy-Paste
 Dalam belajar pemrograman, hal yang tidak boleh dilakukan adalah Copy-Paste dalam pembelajaran. Jangan selalu terpaku pada modul atau tutorial yang ada. Cukup kembangkan idemu dalam belajar. Jadi otak akan lebih mudah untuk menyerapnya dan daya kreativitas pun akan semakin meningkat.
 Dampak yang timbul dari Copy-Paste pada saat belajar, kemampuan Anda hanya akan terpaku seperti tutorial dan Anda tidak dapat mengembangkan kreativitas Anda pada membuat program. Pengetahuan Anda pun akan terbatas karena Anda hanya mengikuti tutorial yang ada.
 
-Selamat mencoba dan jangan menyarah
+Selamat mencoba dan jangan Pernah menyarah
 
 Good Lucky! 💎💪
 for more information call : 
