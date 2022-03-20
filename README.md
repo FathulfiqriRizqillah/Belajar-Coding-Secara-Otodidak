@@ -1,4 +1,4 @@
-                                                         Belajar Coding Secara Otodidak
+                              Belajar Coding Secara Otodidak
 
 ![image](https://user-images.githubusercontent.com/101205923/159150213-1a1d5e01-c0fc-4051-8ee6-f01e173228c5.png)
 
