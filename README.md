@@ -3,7 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/101205923/159150213-1a1d5e01-c0fc-4051-8ee6-f01e173228c5.png)
 
-Kenapa Harus Belajar Coding?
+      Kenapa Harus Belajar Coding?
+      
 Seperti yang sudah disinggung sebelumnya, coding adalah salah satu hal yang membantu kita di kehidupan masa kini yang serba digital. 
 
 Ketika Anda ingin belajar coding, kemungkinan besar Anda sudah tahu apa alasannya. Namun, jika Anda masih bingung pun tidak apa-apa. Berikut adalah beberapa keuntungan yang bisa Anda dapatkan dari belajar coding.
