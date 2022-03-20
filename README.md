@@ -1,4 +1,7 @@
       Belajar Coding Secara Otodidak
+      
+Hi, Saya fathulfiqri rizqillah Seperti yang kita janjikan di artikel kali ini kita akan membahas tentang bagaimana kita memanfaatkan kondisi yang mempermudah dan mengatasi kondisi yang mempersulit saat ini untuk belajar pemrograman.
+banyak yang bilang seiring bertambahnya umur, neuron yang ada di otak tidak selentur saat umur kita masih muda. Jangan patah semangat dulu jika Anda bukan lulusan ilmu komputer atau teknik informatika dan baru tertarik belajar coding saat sudah beranak-pinak. Selama logika Anda masih jalan, tidak ada istilah ‘tidak mungkin’ untuk belajar pemrograman walaupun membutuhkan ketekunan ekstra. Lalu apakah ada tips, trik, jurus, atau aji-ajian khusus bagi orang awam untuk belajar coding? Tentu saja ada dan tidak perlu mengguyur komputer Anda dengan air kembang tujuh rupa agar Anda bisa mengetik kode pemrograman selancar mengetik di group chat Whatsapp atau komentar di media sosial. Berikut tips, trik. saya siapkan khusus untuk Anda yang masih ragu untuk belajar coding :
 
 ![image](https://user-images.githubusercontent.com/101205923/159151471-6e69cb0f-7417-494b-84a3-41e9f8434704.png)
 
@@ -8,6 +11,11 @@
    
 Seperti yang sudah disinggung sebelumnya, coding adalah salah satu hal yang membantu kita di kehidupan masa kini yang serba digital. 
 Ketika Anda ingin belajar coding, kemungkinan besar Anda sudah tahu apa alasannya. Namun, jika Anda masih bingung pun tidak apa-apa. Berikut adalah beberapa keuntungan yang bisa Anda dapatkan dari belajar coding.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	Berikut adalah Manfaat-manfaat Belajar Coding :
+	
 
       Karir Yang Menjanjikan
 
@@ -50,6 +58,14 @@ Di dunia musik, tak jarang kita selalu menjumpai gitaris-gitaris hebat yang dulu
 
 Memang banyak yang bilang seiring bertambahnya umur, neuron yang ada di otak tidak selentur saat umur kita masih muda. Jangan patah semangat dulu jika Anda bukan lulusan ilmu komputer atau teknik informatika dan baru tertarik belajar coding saat sudah beranak-pinak. Selama logika Anda masih jalan, tidak ada istilah ‘tidak mungkin’ untuk belajar pemrograman walaupun membutuhkan ketekunan ekstra. Lalu apakah ada tips, trik, jurus, atau aji-ajian khusus bagi orang awam untuk belajar coding? Tentu saja ada dan tidak perlu mengguyur komputer Anda dengan air kembang tujuh rupa agar Anda bisa mengetik kode pemrograman selancar mengetik di group chat Whatsapp atau komentar di media sosial. Berikut tips, trik, atau aji-ajian yang kami siapkan khusus untuk Anda yang masih ragu untuk belajar coding :
 
+	Menguasai Konsep Dasar Terlebih Dahulu
+
+![image](https://user-images.githubusercontent.com/101205923/159152815-ac68f607-d65c-4140-a6e7-159a27ed94e0.png)
+
+Segala yang instan tidak selalu baik apalagi dalam hal pembelajaran. Godaan dalam belajar coding yang paling besar adalah framework. Dengan framework kita bisa membuat sebuah app dalam hitungan hari dari yang sebelumnya belum pernah membuat app sama sekali. Masalahnya adalah jika kita dihadapkan dengan masalah-masalah spesifik yang harus diselesaikan dengan fungsi-fungsi dasar bahasa pemrograman. Tentunya kita akan kebingungan karena kita baru berputar-putar di permukaaan.
+
+Belajar konsep dasar pemrograman terlebih dahulu seperti ‘if’ dan ‘loops’ juga akan meningkatkan kemampuan kita dalam membaca kode yang ditulis orang lain. Hal ini berguna dalam mengerjakan project kolaborasi dengan developer lain. Dan yang paling penting dalam menguasai konsep dasar pemrograman adalah kita bisa menuangkan kreativitas kita dalam wujud baris kode. Anda akan merasakan sendiri saat Anda sudah terbiasa untuk menulis kode pemrograman.
+
       Belajar Bahasa Inggris
 	
 ![image](https://user-images.githubusercontent.com/101205923/159151987-4074bebf-92df-43fa-b5ab-8ca04627602b.png)
@@ -57,6 +73,24 @@ Memang banyak yang bilang seiring bertambahnya umur, neuron yang ada di otak tid
 Trik ini adalah yang paling tidak berhubungan dengan dunia per-coding-an atau pemrograman tapi justru yang paling penting. Kenapa? Karena dokumentasi tools & framework serta tutorial bahasa pemrograman jauh lebih banyak yang ditulis menggunakan Bahasa Inggris. Akan beda ceritanya jika Anda mempunyai penerjemah pribadi dan menerjemahkan setiap kata demi kata di layar monitor Anda. Coba saja bandingkan kata kunci “tutorial pemrograman” dan “programming tutorial” di mesin pencari Google. Selain itu forum-forum developer juga banyak menggunakan Bahasa Inggris seperti Stack Overflow contohnya. Dan kita tidak mungkin berkomunikasi dengan developer dari seluruh dunia dengan menggunakan Bahasa Swahili bukan?
 
 Tidak hanya itu saja, Bahasa Inggris juga penting jika kita sudah ahli dalam per-coding-an dan berniat menjadi seorang freelancer dan mencari pekerjaan dari situs crowdsourcing. Ditambah lagi jika kita menganggap nilai tukar Dollar ke Rupiah lebih menguntungkan bagi seorang developer. Mulailah belajar Bahasa Inggris sejak dini karena belajar Bahasa Inggris bukan hal yang sulit untuk dilakukan dan juga bisa dilakukan secara otodidak.
+
+	Buat Rencana dan Jadwal Latihan Tersendiri
+	
+![image](https://user-images.githubusercontent.com/101205923/159153012-73a1c181-9399-4f94-940f-c8c66151c5a6.png)
+	
+Musuh paling besar dalam latihan coding yang datang dari diri sendiri adalah rasa malas. Rasa malas inilah yang menghentikan semangat menggebu-gebu yang lahir di awal proses belajar coding. Kondisi yang sering dialami para coder (sebutan orang yang melakukan aktivitas coding, Red.) adalah ketika mereka sudah bisa membuat suatu aplikasi sederhana dari tutorial dan kemudian berhenti di situ saja. Mereka tidak mencari tutorial membuat jenis aplikasi yang lain.
+
+Untuk menghindari hal tersebut, kita bisa membuat jadwal khusus untuk latihan pemrograman. Jika diibaratkan seorang Samurai, seorang coder haruslah menempuh “jalan pedang”. Mungkin istilah “jalan pedang” ini bisa diganti dengan “jalan keyboard” karena senjata yang digunakan adalah keyboard bukan pedang.
+
+Bagi para coder yang menganggap coding cuma sebagai hobi, latihan tidak harus setiap hari. Sabtu & Minggu yang sering digunakan untuk aktivitas hobi bisa menjadi hari di mana latihan coding dijadwalkan. Bagi yang serius mendalami dunia per-coding-an untuk dijadikan profesi, mungkin Anda harus menyisihkan waktu 2-4 jam setiap hari untuk latihan. Ingat! Coding bisa dikategorikan sebagai keterampilan yang jika tidak rutin diasah keterampilan tersebut akan tumpul dengan sendirinya.
+
+	Bersosialisasi Dengan Teman Seperjuangan
+	
+![image](https://user-images.githubusercontent.com/101205923/159153160-508639ef-3ad6-4d2b-8cce-95d0da0fa908.png)
+
+“I feel you, bro!” Kalimat yang sering dijadikan meme ini menunjukan simpati dan empati ini sangat membantu kita untuk menumbuhkan rasa semangat dalam belajar coding. Inilah manfaat utama mengapa kita juga harus bersosialisasi dengan sesama coder ataupun developer yang sudah berpengalaman. Kebanyakan dari mereka yang sudah malang melintang di dunia per-coding-an juga tak segan berbagi ilmu dengan para “juniornya.” Mereka sudah pernah berada dalam posisi baru belajar.
+
+Ada bermacam-macam cara untuk bersosialisasi dengan para coder. Selain aktif bertanya-tanya di forum online nasional maupun internasional, kita ikut acara-acara komunitas IT yang biasanya tidak dipungut biaya. Tidak tertutup kemungkinan pula jika kita akan mendapatkan kesempatan bekerja di acara-acara tersebut.
 
       Perbanyak Praktek
 
