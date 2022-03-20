@@ -16,6 +16,8 @@ ________________________________________________________________________________
       
  Berikut Manfaat Mempelajari Coding :
  
+ ![image](https://user-images.githubusercontent.com/101205923/159154638-5380d24f-03b7-4d41-a14b-8e0f4b21cdf0.png)
+
  	Karir Yang Menjanjikan
 
    ![image](https://user-images.githubusercontent.com/101205923/159151874-a5da3fff-55f9-4f93-b86b-f136d00fe6b9.png)
@@ -32,7 +34,7 @@ Hal ini membuktikan bahwa lambat laun hal-hal di sekitar kita akan terpengaruh d
 Selain untuk karir, belajar coding juga bermanfaat untuk kebutuhan personal.  
 Misalnya, Anda membutuhkan program untuk mengatur keuangan atau mengatur jadwal sehari-hari. Jika Anda merasa kurang cocok dengan program yang sudah ada, Anda bisa membuat program Anda sendiri. Tentunya Anda bebas menyesuaikan program tersebut dengan keinginan serta kebutuhan Anda.
 
-	3.Mengasah Kemampuan Problem-Solving
+	Mengasah Kemampuan Problem-Solving
          
   ![image](https://user-images.githubusercontent.com/101205923/159151749-26c149dc-1faa-4016-bdfe-c19347608e71.png)
       
