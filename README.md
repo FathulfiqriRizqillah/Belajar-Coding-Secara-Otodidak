@@ -14,8 +14,9 @@ Ketika Anda ingin belajar coding, kemungkinan besar Anda sudah tahu apa alasanny
 
 _______________________________________________________________________________________________________________________________________________________________________
       
-	Berikut adalah Manfaat-manfaat Belajar Coding :
-      	1, Karir Yang Menjanjikan
+ Berikut Manfaat Mempelajari Coding :
+ 
+ 	1, Karir Yang Menjanjikan
 
    ![image](https://user-images.githubusercontent.com/101205923/159151874-a5da3fff-55f9-4f93-b86b-f136d00fe6b9.png)
 
