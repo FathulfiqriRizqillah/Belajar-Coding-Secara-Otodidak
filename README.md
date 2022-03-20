@@ -16,19 +16,16 @@ ________________________________________________________________________________
       
  Berikut Manfaat Mempelajari Coding :
  
- 	1, Karir Yang Menjanjikan
+ 	Karir Yang Menjanjikan
 
    ![image](https://user-images.githubusercontent.com/101205923/159151874-a5da3fff-55f9-4f93-b86b-f136d00fe6b9.png)
 
 Dari tahun ke tahun, permintaan untuk tech talents semakin tinggi. Permintaan yang tinggi ini tentunya sebanding dengan gaji yang ditawarkan. Hal ini karena orang-orang berlomba-lomba untuk mendapatkan tech talents, khususnya mereka yang sudah punya pengalaman.
-
 Banyak perusahaan membutuhkan orang-orang yang ahli di bidang teknologi. Alasannya karena sekarang semua hal memang membutuhkan bantuan dari teknologi itu sendiri.
-
 Kita bisa ambil contoh ojek. Dulu, ketika kita perlu naik ojek, kita harus mencarinya terlebih dahulu ke jalan raya atau gang. Sekarang, kita bisa langsung memesan ojek lewat telepon genggam kita. Contohnya lewat Gojek dan Grab.
-
 Hal ini membuktikan bahwa lambat laun hal-hal di sekitar kita akan terpengaruh digitalisasi. Maka dari itu, karir di bidang teknologi memang menjanjikan.
 
-  	2. Dapat Membuat Program Yang Diinginkan
+	Dapat Membuat Program Yang Diinginkan
       
   ![image](https://user-images.githubusercontent.com/101205923/159151785-bd6b1f30-ec85-4319-bb17-623ba31f83ff.png)
   
