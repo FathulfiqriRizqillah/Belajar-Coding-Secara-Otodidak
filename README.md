@@ -105,6 +105,7 @@ Dampak yang timbul dari Copy-Paste pada saat belajar, kemampuan Anda hanya akan 
 Selamat mencoba dan jangan Pernah menyarah
 
 Good Lucky ! 💎💪
+
 for more information call : 
 
 https://m.facebook.com/fathul.fiqrirzh?ref=bookmarks
