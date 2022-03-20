@@ -6,6 +6,8 @@
 
       Kenapa Harus Belajar Coding?
       
+   ![image](https://user-images.githubusercontent.com/101205923/159150642-cfd7ced5-01ce-40b5-9277-e581b8a91d84.png)
+
       
 Seperti yang sudah disinggung sebelumnya, coding adalah salah satu hal yang membantu kita di kehidupan masa kini yang serba digital. 
 
